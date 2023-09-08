@@ -1,1 +1,1 @@
-# Online-Medical-Booking-
+This is my java project using basics. 
